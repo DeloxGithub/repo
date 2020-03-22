@@ -3,7 +3,7 @@ Name: PwnPple
 Version: 10.25.1-2
 Architecture: iphoneos-arm
 Description: Ayy sup, PwnPple is pwnapple. bye
-Maintainer: DMJailbreak
+Maintainer: DMJailbreak@dmjb.xyz
 Author: DMJailbreak
 Section: (PwnPple)
 Depends: com.wizages.bae
