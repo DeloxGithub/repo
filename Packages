@@ -1,13 +1,13 @@
-Package: com.dmjb.pwnpple
-Name: PwnPple
-Version: 10.25.1-2
+Package: com.dmjb.colorpicker
+Name: dmJB ColorPicker V2
+Version: 4.20.69-1
 Architecture: iphoneos-arm
-Description: Ayy sup, PwnPple is pwnapple. bye
-Maintainer: DMJailbreak@dmjb.xyz
-Author: DMJailbreak
-Section: (PwnPple)
-Depends: com.wizages.bae
-Filename: deb/com.dmjb.pwnpple_iphoneos-arm_1.0.deb
+Description: dmJB's custom ColorPicker. {Needs HACKYOURIPHONE REPO repo.hackyouriphone.org} for installation to work!
+Maintainer: dm@jb.xyz
+Author: dmJB-myTweaks dm@jb.xyz
+Section: hyiNeeded (TWEAKS)
+Depends: com.hackyouriphone.libcolorpicker
+Filename: deb/com.dmjb.colorpicker_iphoneos-arm_1.0.deb
 Size: 440
 MD5sum: 295ce2f98a3486548f952b1d6e71033b
 SHA1: dcf63276f887798097da4ae4f8d9992bb13fe258
