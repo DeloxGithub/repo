@@ -1,0 +1,14 @@
+Package: com.dmjb.pwnpple
+Name: PwnPple
+Version: 10.25.1-2
+Architecture: iphoneos-arm
+Description: Ayy sup, PwnPple is pwnapple. bye
+Maintainer: DMJailbreak
+Author: DMJailbreak
+Section: (PwnPple)
+Depends: 
+Filename: deb/com.dmjb.pwnpple_iphoneos-arm_1.0.deb
+Size: 440
+MD5sum: 295ce2f98a3486548f952b1d6e71033b
+SHA1: dcf63276f887798097da4ae4f8d9992bb13fe258
+SHA256: 12771fc37134fb48174a2cdb3c2600a58c4b252bfd67724b0a7c40af806a772f
